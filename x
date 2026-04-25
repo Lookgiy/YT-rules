@@ -1,0 +1,6 @@
+# NAME: X
+# AUTHOR: noname
+# UPDATED: 2026-04-025
+
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twimg.com
